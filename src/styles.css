@@ -1,0 +1,7 @@
+.Container{
+    display: flex;
+  }
+  
+  .receipt{
+    border: solid;
+  }
